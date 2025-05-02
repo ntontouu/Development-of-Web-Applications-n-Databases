@@ -28,7 +28,23 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <form method="POST">
   <h2>Σύνδεση</h2>
   <input type="text" name="username" placeholder="Όνομα χρήστη" required><br>
-  <input type="password" name="password" placeholder="Κωδικός" required><br>
+  <div style="position: relative;">
+  <input type="password" id="password" name="password" required>
+  <span onclick="togglePassword()" style="position:absolute; right:10px; top:50%; transform:translateY(-50%); cursor:pointer;">
+    👁️
+  </span>
+</div>
   <button type="submit">Είσοδος</button>
 </form>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+<script>
+function togglePassword() {
+  var x = document.getElementById("password");
+  if (x.type === "password") {
+    x.type = "text";
+  } else {
+    x.type = "password";
+  }
+}
+</script>
