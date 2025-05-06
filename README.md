@@ -34,4 +34,4 @@
 3. **Στο `phpMyAdmin`:**
    - Δημιούργησε βάση `training_tracker`
    - Κάνε `Import` το αρχείο `database.sql`
-4. **Άνοιξε τον browser και επισκέψου:**
+4. **Άνοιξε τον browser και επισκέψου:*localhost/training_tracker*
