@@ -1,0 +1,9 @@
+
+=== 2025-05-13 22:03:37 ===
+POST Data: Array
+(
+    [plan_id] => 20
+    [duration] => 1
+)
+
+ERROR: Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'training_tracker.workout_history' doesn't exist
