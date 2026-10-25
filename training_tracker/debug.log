@@ -1,0 +1,107 @@
+2025-05-06 01:19:26 - Request started
+Array
+(
+    [success] => 1
+    [xp_earned] => 12
+    [level_up] => 
+    [debug] => Array
+        (
+            [plan_id] => 14
+            [duration] => 1
+            [session] => 102kfutepdmrti2eqtugm0csup
+        )
+
+)
+
+2025-05-06 02:25:01 - Request started
+Array
+(
+    [success] => 1
+    [xp_earned] => 12
+    [level_up] => 
+    [debug] => Array
+        (
+            [plan_id] => 16
+            [duration] => 1
+            [session] => 1ran7ajb1tvvjm2jhqfbu1g476
+        )
+
+)
+
+2025-05-07 22:22:34 - Request started
+Array
+(
+    [success] => 1
+    [xp_earned] => 12
+    [level_up] => 
+    [debug] => Array
+        (
+            [plan_id] => 18
+            [duration] => 1
+            [session] => nl60k8b891dvf95spr49001p1d
+        )
+
+)
+
+2025-05-07 22:26:46 - Request started
+Array
+(
+    [success] => 1
+    [xp_earned] => 12
+    [level_up] => 
+    [debug] => Array
+        (
+            [plan_id] => 19
+            [duration] => 1
+            [session] => d4b3jl4r4qq14998on89se8813
+        )
+
+)
+
+2025-05-13 21:15:02 - Request started
+Array
+(
+    [success] => 1
+    [xp_earned] => 12
+    [level_up] => 
+    [debug] => Array
+        (
+            [plan_id] => 20
+            [duration] => 1
+            [session] => lnlvtvqln3g6r7eod3o7g3oh6l
+        )
+
+)
+
+
+2025-05-13 22:02:03 - New request
+2025-05-13 22:23:11 - Request started
+Array
+(
+    [success] => 1
+    [xp_earned] => 12
+    [level_up] => 
+    [debug] => Array
+        (
+            [plan_id] => 21
+            [duration] => 1
+            [session] => lnlvtvqln3g6r7eod3o7g3oh6l
+        )
+
+)
+
+2025-05-14 12:10:15 - Request started
+Array
+(
+    [success] => 1
+    [xp_earned] => 12
+    [level_up] => 
+    [debug] => Array
+        (
+            [plan_id] => 21
+            [duration] => 1
+            [session] => lnlvtvqln3g6r7eod3o7g3oh6l
+        )
+
+)
+
